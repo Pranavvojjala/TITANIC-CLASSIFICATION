@@ -1,0 +1,6 @@
+Package install command -- pip install package_name
+
+pandas
+numpie
+matplotlib
+sklearn
